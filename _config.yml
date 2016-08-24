@@ -1,4 +1,3 @@
-layout_spectrum: 0.27350955293513834
 typography_spectrum: 0.33626153599470854
 color:
   brandStrength: 0.8058157307095826
@@ -6,9 +5,11 @@ color:
   saturation: 0.5777598626445979
   rhythmicContrast: 0.18123778514564037
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.27350955293513834
 name: Homepage
+title: egapemoH
